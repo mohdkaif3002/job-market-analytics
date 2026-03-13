@@ -31,7 +31,8 @@ job-market-analytics/
 ```
 
 ## Dashboard Preview
-![Dashboard](charts/chart1_top_paying_jobs.png)
+<img width="479" height="267" alt="image" src="https://github.com/user-attachments/assets/6ae35dc2-2956-4551-864d-8d130b14e753" />
+
 
 ## Visualizations
 1. Top 10 Highest Paying Job Titles
